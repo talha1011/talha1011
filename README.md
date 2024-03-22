@@ -1,3 +1,4 @@
+![logo](https://github.com/talha1011/talha1011/blob/main/top11.png)
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 - 🔭 I’m currently working on **Front-End Development**
